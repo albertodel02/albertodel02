@@ -2,7 +2,7 @@
 
 - 🤖 Second-year MSc student in **Robotics, Systems and Control** at **ETH Zurich**
 - ⚙️ BSc in **Automation Engineering** from **Politecnico di Milano**
-- 🔎 Research interests: **Differentiable Optimization**, **Energy Systems Optimal Control**, **Machine Learning**
+- 🔎 Research interests: **Dynamical Systems Optimal Control**, **Machine Learning**, **Differentiable Optimization**
 - 🌱 Former **Industrial Engineering Intern** at **Ortoverde** (Senigallia, IT)
 - 🎿 Sports & interests: Skiing | Hiking | Gym | Football
  ***
