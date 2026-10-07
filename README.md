@@ -1,9 +1,9 @@
 ## 👋 Hi, I am Alberto De Luca
 
+- 🏛️ Current **Visiting Student** at **Tsinghua University** (Beijing, CN)
 - 🤖 Second-year MSc student in **Robotics, Systems and Control** at **ETH Zurich**
 - ⚙️ BSc in **Automation Engineering** from **Politecnico di Milano**
 - 🔎 Research interests: **Optimal Control**, **Machine Learning**, **Differentiable Optimization**, **Power Systems**
-- 🏛️ Current **Visiting Student** at **Tsinghua University** (Beijing, CN)
 - ⚡ Former **Research Intern** at **ABB** (Mannheim, DE)
 - 🌱 Former **Industrial Engineering Intern** at **Ortoverde** (Senigallia, IT)
 - 🎿 Sports & interests: Skiing | Hiking | Gym | Football
